@@ -1,6 +1,6 @@
-# Sora Union take-home test
+# Webdriverio page object model for web automation, it can be modified to work for mobile also
 
-This repository contains automated test scripts for the take-home assignment using WebdriverIO, Selenium, and JavaScript.
+This repository contains automated test scripts for using WebdriverIO, Selenium, and JavaScript.
 
 ## Table of Contents
 
