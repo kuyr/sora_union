@@ -31,7 +31,7 @@ git clone https://github.com/kuyr/sora_union.git
 2. Change to the project directory and install dependencies
 
 ```sh
-   cd sora_union
+   cd webdriver.io_web_auto
 
    npm install
 ```
