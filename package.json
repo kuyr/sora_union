@@ -1,7 +1,7 @@
 {
   "name": "sora_union",
   "version": "1.0.0",
-  "description": "a take home test for sora union interview",
+  "description": "a test automation framework for testing web (it can be modified to cater to for mobile)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
