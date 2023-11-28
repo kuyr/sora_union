@@ -1,6 +1,6 @@
 {
   "name": "sora_union",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a test automation framework for testing web (it can be modified to cater to for mobile)",
   "main": "index.js",
   "scripts": {
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kuyr/sora_union.git"
+    "url": "git+https://github.com/kuyr/webdriver.io_web_auto.git"
   },
   "author": "emmanuel kuye",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kuyr/sora_union/issues"
+    "url": "https://github.com/kuyr/webdriver.io_web_auto/issues"
   },
-  "homepage": "https://github.com/kuyr/sora_union#readme",
+  "homepage": "https://github.com/kuyr/webdriver.io_web_auto#readme",
   "dependencies": {
     "@wdio/cli": "^8.22.1",
     "selenium-webdriver": "^4.15.0"
